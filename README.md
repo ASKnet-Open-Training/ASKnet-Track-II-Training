@@ -1,6 +1,9 @@
 # ASKnet-Track-II-Training
 Main Training Repository lead by the Trainers
 
+![](/woman-online.jpg)
+>Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2051420">Gerd Altmann</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2051420">Pixabay</a>
+
 Track II - #ASKnet 2020 - Open Tool Collaboration
 ===
 
