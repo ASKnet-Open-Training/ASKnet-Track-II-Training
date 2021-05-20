@@ -15,13 +15,21 @@ https://pad.openculture.agency/s/Track2Challenges#
 
 # Training Overview
 ## General Roadmap
+
 **Open Tool Collaboration**
+
 Phase 1: Application (Sep 2020)
+
 Phase 2: Introduction (Oct 2020)
+
 Phase 3: Main Training-Sessions(Oct 2020)
+
 Phase 4: Guidance Workshops (Nov, Dec 2020)
-Phase 5: Hands-On Challenges, Community Mission (Jan, Feb 2021)
-Phase 6: Wrap-Up and independent continuation (Feb 2021)
+
+Phase 5: Hands-On Challenges, Community Mission (Jan-Feb 2021)
+
+Phase 6: Wrap-Up and independent continuation (Feb-Mar 2021)
+
 Phase 6: Evaluation and Report (Mar 2021)
 
 ---
@@ -69,20 +77,25 @@ Phase 6: Evaluation and Report (Mar 2021)
 ### 2021 
 
 8. **[12th of January 2021]** - Collaboration - Let's create Community Repair Café Event Planning → Training Modules 
-9. **[9th of February 2021]** - Open Collaboration Guide & Collaborative Event Planning
-10. **[23th of February 2021]** Rep-Up & What's Next? - continue the story - **[self-organised]**
-> \+ 2-3 extra Sessions for Q&A as needed and continuous [guidance via GitHub](https://github.com/ASKnet-Open-Training/Github-Guidance)
+9. **[9th of February 2021]** - Open Collaboration Guidance & Collaborative Event Planning
+10. **[23th of February 2021]** final Q&A regarding GitHub Content management and continuous [guidance via GitHub](https://github.com/ASKnet-Open-Training/Github-Guidance)
+11. **[9th of March]** final Q&A for Track II - closing the Programme for Wrap-Up
+12. **[16th of March 2021]** Rep-Up & What's Next? - continue the story - **[self-organised]**  
+
 
 ----
 
 ### Specials
 
-A. **[10th of November 2020]** - TRACK I Collaboration - Storytelling
+A. **[10th of November 2020]** - TRACK I Collaboration - Storytelling - What's your Story? Podcasting & Audio Production
 
-B. **[16th of February 2021]** - Online Repair Café - A decentralised Community Training Event 
+B. **[16th of February 2021]** - Online Repair Café - A decentralised Community Training Event - 3 Locations
 
->\+ another TRACK I Collaboration? Cocreation & Product development [date open]
+C. **[7th of March 2021]** - Online Repair Café - A decentralised Community Training Event - 3 Locations
 
+D. **[23rd of March 2021]** - Online Repair Café - A decentralised Community Training Event - 3 Locations
+
+E. **[23rd of March 2021]** another TRACK I Collaboration - Community Co-Creation
 
 ---
 
